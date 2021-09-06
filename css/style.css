@@ -1189,9 +1189,13 @@ pre {
     align-self: center;
   }
 
+  .features-content {
+    padding: 44px 0;
+    padding-bottom: 60px;
+  }
+
   .grid .card {
-    transform: translateX(0);
-    margin: 0;
+    margin: 10px 0;
   }
 
   .cli .card:nth-of-type(3) {
